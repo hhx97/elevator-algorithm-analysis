@@ -1,4 +1,4 @@
-﻿# Elevator Algorithm Research
+﻿# Elevator Algorithm Analysis
 
 Author: m-pol, m-pol@users.noreply.github.com
 Elevator Research Project
