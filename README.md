@@ -47,23 +47,23 @@ This was run for 10,000 trials for each algorithm. For the raw data sets, see th
 
 Across 10,000 trials, we see:
 
-Random
-        Steps: 46.986
-        Total time across all elevators: 632.301
-        Average time across elevators: 158.07525
-        Maximum elevator time: 211.5748
+* Random
+   * Steps: 46.986
+   * Total time across all elevators: 632.301
+   * Average time across elevators: 158.07525
+   * Maximum elevator time: 211.5748
  
-Nearest Car
-        Steps: 41.9069
-        Total time across all elevators: 500.9484
-        Average time across elevators: 125.2371
-        Maximum elevator time: 223.3452
+* Nearest Car
+   * Steps: 41.9069
+   * Total time across all elevators: 500.9484
+   * Average time across elevators: 125.2371
+   * Maximum elevator time: 223.3452
 
-Sectoring
-        Steps: 38.8678
-        Total time across all elevators: 538.5728
-        Average time across elevators: 134.6432
-        Maximum elevator time: 178.4096
+* Sectoring
+   * Steps: 38.8678
+   * Total time across all elevators: 538.5728
+   * Average time across elevators: 134.6432
+   * Maximum elevator time: 178.4096
 
 ###Discussion
 
