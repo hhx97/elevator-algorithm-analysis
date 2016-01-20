@@ -1,6 +1,6 @@
 ﻿# Elevator Algorithm Analysis
 
-Author: m-pol, m-pol@users.noreply.github.com
+Author: m-pol
 Elevator Research Project
 
 ###Abstract
