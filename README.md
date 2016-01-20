@@ -72,7 +72,7 @@ We see that the number of steps is shorter for Nearest Car than Random, as expec
 
 Sectoring also does better than Random, with a lot fewer steps, and even fewer steps than NC. This makes sense because each elevator is dedicated to only one section, which makes the variance lower. The total and average is better than Random, but worse than NC. In line with the variance being lower is the maximum elevator time being much lower than both.
 
-Future work would include implementing more algorithms, such as Dynamic Sectoring. The code I’ve written should make it straightforward to implement other algorithms using the Strategy interface. Future work could also include making the system so that new calls can be made dynamically, i.e. with the algorithm not just assigning a pre-made set of calls but continuously assigning new incoming calls to appropriate elevators. Lastly, work could be done adding the ability to work with other constraints, such as making some floors more popular than others and seeing how each algorithm fares.
+Future work would include implementing more algorithms, such as Dynamic Sectoring. The code I’ve written should make it straightforward to implement other algorithms using the "Algorithm" interface. Future work could also include making the system so that new calls can be made dynamically, i.e. with the algorithm not just assigning a pre-made set of calls but continuously assigning new incoming calls to appropriate elevators. Lastly, work could be done adding the ability to work with other constraints, such as making some floors more popular than others and seeing how each algorithm fares.
 
 ###References
 
